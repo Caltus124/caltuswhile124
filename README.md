@@ -6,7 +6,7 @@ Nous pouvons l'installer dans le crontab pour que se programme s'exécute sur le
 
 
 
-Installation
+<h2>Installation</h2>
 
 chmod +x caltuswhile.py
 ./caltuswhile.py > /dev/pts/"id"
